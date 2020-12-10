@@ -1,0 +1,41 @@
+.menu{
+	margin-bottom: 30px;
+}
+
+.app{
+	margin-top: 30px;
+}
+
+.pagina{
+	border: solid 1px #e05297;
+	border-radius: 5px;
+	padding: 30px !important;
+}
+
+.navback{
+	background-color: #e05297;
+}
+
+.btnCadastrar{
+	background-color: #e05297 !important;
+	color: white !important;
+}
+
+li.list-group-item.active{
+	background-color: white;
+	border-color: #e05297;
+	border-left: solid 10px #e05297;
+}
+
+li a{
+	color: #e05297;
+}
+
+li a:hover{
+	text-decoration: none;
+	color: #892cdc;
+}
+
+h4{
+	color: #e05297 !important;
+}
